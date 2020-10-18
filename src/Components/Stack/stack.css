@@ -1,0 +1,45 @@
+.stack-image {
+	background: rgba(51, 214, 159, 0.07);
+	border-radius: 50%;
+	margin-right: 25px;
+	height: 70px;
+	width: 70px;
+	display: grid;
+	justify-content: center;
+	align-content: center;
+}
+
+.stack-line1 {
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: bolder;
+	font-size: 28px;
+	line-height: 24px;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.01em;
+	color: #000000;
+}
+
+.stack-line2 {
+	font-family: Gilroy;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 20px;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.01em;
+	color: #A6ACBE;
+	margin-left: 5px;
+	font-weight: bolder;
+}
+
+.stack-title {
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 40px;
+	letter-spacing: 0.01em;
+	color: #A6ACBE;
+}
